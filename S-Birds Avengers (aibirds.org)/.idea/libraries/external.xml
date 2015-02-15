@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="external">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AI Paper Codes/external/jar-in-jar-loader.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AI Paper Codes/external/commons-codec-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AI Paper Codes/external/Jama-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AI Paper Codes/external/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AI Paper Codes/external/WebSocket.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

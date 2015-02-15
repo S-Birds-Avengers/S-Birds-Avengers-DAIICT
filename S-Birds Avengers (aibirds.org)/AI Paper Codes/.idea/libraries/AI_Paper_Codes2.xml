@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AI Paper Codes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ABSoftware.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ABServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
